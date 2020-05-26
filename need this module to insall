@@ -1,0 +1,3 @@
+[root@puppetmaster /]# puppet module install puppetlabs-apache
+
+[root@puppetmaster /]# puppet module install puppetlabs-mysql 
